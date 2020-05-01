@@ -8,7 +8,7 @@
 
 ## コンパイルは以下の通り行います。
 
-> g++.exe -g sample2.cpp -o sample2.exe
+> g++.exe -g sample2.cpp -o sample2.exe 
 
 
 
